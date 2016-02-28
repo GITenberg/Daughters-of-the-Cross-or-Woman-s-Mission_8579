@@ -1,0 +1,31 @@
+_repo: Daughters-of-the-Cross-or-Woman-s-Mission_8579
+creator:
+  author:
+    agent_name: Eddy, Daniel C. (Daniel Clarke)
+    aliases:
+    - Wert, Rupert Van
+    - Van Wert, Rupert
+    - Eddy, D. C. (Daniel Clarke)
+    birthdate: 1823
+    deathdate: 1896
+    gutenberg_agent_id: '2814'
+    url: http://www.gutenberg.org/2009/agents/2814
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Biography'
+- !lcsh 'Women missionaries'
+- !lcc 'HQ'
+- !lcc 'BV'
+tableOfContents: Harriet Newell -- Ann H. Judson -- Elizabeth Hervey -- Harriet B.
+  Stewart -- Sarah L. Smith -- Eleanor Macomber -- Sarah D. Comstock -- Henrietta
+  Shuck -- Sarah B. Judson -- Mary E. Van Lennep.
+title: 'Daughters of the Cross: or Woman''s Mission'
+url: http://www.gutenberg.org/ebooks/8579
